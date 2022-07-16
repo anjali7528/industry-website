@@ -1,0 +1,9 @@
+*{
+    margin:0;
+}
+.typewriter{
+    font-size: 25px;
+}
+img{
+    filter: brightness(70%);
+}
